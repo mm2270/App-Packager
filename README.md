@@ -28,7 +28,7 @@ The application currently does some basic error checking, including the followin
 App Packager.app currently only builds packages that are installed into the root `/Applications/` directory. If you want your application to be installed into an alternate location, App Packager cannot currently do this, so you will need to build your package using a different method.  
 
 #####Download
-Download App Packager.app 1.0 from this link on the Releases tab. 
+Download App Packager.app 1.0 from [this link](https://github.com/mm2270/App-Packager/releases) on the Releases tab. 
 
 #####Credits
 Credit for the tip on building installer packages with pkgbuild goes to [nellatosi](https://jamfnation.jamfsoftware.com/viewProfile.html?userID=4817) on JAMFNation on [this thread](https://jamfnation.jamfsoftware.com/featureRequest.html?id=3719).  
