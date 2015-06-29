@@ -1,5 +1,5 @@
-## App-Packager
-###A simple application for creating package installers from app bundles or disk images with app bundles
+## App Packager
+####A simple application for creating package installers from app bundles or disk images with app bundles
 
 App Packager is a very simple application written in Platypus with shell and Applescripting.
 The purpose of the app is to be able to quickly create .pkg style installers from disk images that contain a simple .app bundle, or from .app bundles that are already installed on a Mac.
