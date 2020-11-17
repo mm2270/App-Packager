@@ -31,5 +31,5 @@ App Packager.app currently only builds packages that are installed into the root
 Download App Packager.app 1.0 from [this link](https://github.com/mm2270/App-Packager/releases) on the Releases tab. 
 
 #### Credits
-Credit for the tip on building installer packages with pkgbuild goes to [neilatosi](https://jamfnation.jamfsoftware.com/viewProfile.html?userID=4817) on JAMFNation on [this thread](https://jamfnation.jamfsoftware.com/featureRequest.html?id=3719).  
+Credit for the tip on building installer packages with pkgbuild goes to [neilatosi](https://www.jamf.com/jamf-nation/users/4817/neilatosi) on JAMFNation on [this thread](https://www.jamf.com/jamf-nation/feature-requests/3719/drag-and-drop-dmgs-and-composer).  
 I simply created a more automated process for doing these steps in App Packager.app.
